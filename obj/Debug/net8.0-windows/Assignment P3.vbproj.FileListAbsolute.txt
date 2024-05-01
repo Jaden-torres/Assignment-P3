@@ -1,0 +1,17 @@
+C:\Users\Jaden Torres\source\repos\Assignment P3\bin\Debug\net8.0-windows\Assignment P3.exe
+C:\Users\Jaden Torres\source\repos\Assignment P3\bin\Debug\net8.0-windows\Assignment P3.deps.json
+C:\Users\Jaden Torres\source\repos\Assignment P3\bin\Debug\net8.0-windows\Assignment P3.runtimeconfig.json
+C:\Users\Jaden Torres\source\repos\Assignment P3\bin\Debug\net8.0-windows\Assignment P3.dll
+C:\Users\Jaden Torres\source\repos\Assignment P3\bin\Debug\net8.0-windows\Assignment P3.pdb
+C:\Users\Jaden Torres\source\repos\Assignment P3\obj\Debug\net8.0-windows\Assignment_P3.Form1.resources
+C:\Users\Jaden Torres\source\repos\Assignment P3\obj\Debug\net8.0-windows\Assignment_P3.Resources.resources
+C:\Users\Jaden Torres\source\repos\Assignment P3\obj\Debug\net8.0-windows\Assignment P3.vbproj.GenerateResource.cache
+C:\Users\Jaden Torres\source\repos\Assignment P3\obj\Debug\net8.0-windows\Assignment P3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaden Torres\source\repos\Assignment P3\obj\Debug\net8.0-windows\Assignment P3.AssemblyInfoInputs.cache
+C:\Users\Jaden Torres\source\repos\Assignment P3\obj\Debug\net8.0-windows\Assignment P3.AssemblyInfo.vb
+C:\Users\Jaden Torres\source\repos\Assignment P3\obj\Debug\net8.0-windows\Assignment P3.vbproj.CoreCompileInputs.cache
+C:\Users\Jaden Torres\source\repos\Assignment P3\obj\Debug\net8.0-windows\Assignment P3.dll
+C:\Users\Jaden Torres\source\repos\Assignment P3\obj\Debug\net8.0-windows\refint\Assignment P3.dll
+C:\Users\Jaden Torres\source\repos\Assignment P3\obj\Debug\net8.0-windows\Assignment P3.pdb
+C:\Users\Jaden Torres\source\repos\Assignment P3\obj\Debug\net8.0-windows\Assignment P3.genruntimeconfig.cache
+C:\Users\Jaden Torres\source\repos\Assignment P3\obj\Debug\net8.0-windows\ref\Assignment P3.dll
